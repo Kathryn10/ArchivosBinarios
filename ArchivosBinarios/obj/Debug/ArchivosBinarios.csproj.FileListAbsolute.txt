@@ -1,0 +1,7 @@
+F:\GITHUB\ArchivosBinarios\bin\Debug\ArchivosBinarios.exe.config
+F:\GITHUB\ArchivosBinarios\bin\Debug\ArchivosBinarios.exe
+F:\GITHUB\ArchivosBinarios\bin\Debug\ArchivosBinarios.pdb
+F:\GITHUB\ArchivosBinarios\obj\Debug\ArchivosBinarios.csproj.AssemblyReference.cache
+F:\GITHUB\ArchivosBinarios\obj\Debug\ArchivosBinarios.csproj.CoreCompileInputs.cache
+F:\GITHUB\ArchivosBinarios\obj\Debug\ArchivosBinarios.exe
+F:\GITHUB\ArchivosBinarios\obj\Debug\ArchivosBinarios.pdb
